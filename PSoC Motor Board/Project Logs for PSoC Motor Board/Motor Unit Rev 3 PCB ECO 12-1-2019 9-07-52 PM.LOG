@@ -1,0 +1,89 @@
+Added Component: Designator=U3(ADAI-WS2812B_V)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case\Package"; Value = "Radial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.adafruit.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "240 mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "May-13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "12.2 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Pitch"; Value = "5 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "12.2 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "4-Pin Surface Mount Device, Body 5 x 5 mm, Pitch 3.3 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "WS2812B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHSCompliant"; Value = "true"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shielding"; Value = "Unshielded"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Added Component: Designator=U4(ADAI-WS2812B_V)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case\Package"; Value = "Radial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.adafruit.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "240 mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "May-13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "12.2 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Pitch"; Value = "5 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "12.2 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "4-Pin Surface Mount Device, Body 5 x 5 mm, Pitch 3.3 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "WS2812B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHSCompliant"; Value = "true"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shielding"; Value = "Unshielded"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Added Component: Designator=U5(ADAI-WS2812B_V)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case\Package"; Value = "Radial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.adafruit.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "240 mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "May-13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "12.2 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Pitch"; Value = "5 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "12.2 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "4-Pin Surface Mount Device, Body 5 x 5 mm, Pitch 3.3 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "WS2812B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHSCompliant"; Value = "true"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shielding"; Value = "Unshielded"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=U3-1
+Added Pin To Net: NetName=NetU3_2 Pin=U3-2
+Added Pin To Net: NetName=+5 Pin=U3-3
+Added Pin To Net: NetName=NetR27_2 Pin=U3-4
+Added Pin To Net: NetName=GND Pin=U4-1
+Added Pin To Net: NetName=NetU4_2 Pin=U4-2
+Added Pin To Net: NetName=+5 Pin=U4-3
+Added Pin To Net: NetName=NetU3_2 Pin=U4-4
+Added Pin To Net: NetName=GND Pin=U5-1
+Added Pin To Net: NetName=+5 Pin=U5-3
+Added Pin To Net: NetName=NetU4_2 Pin=U5-4
+Added Member To Class: ClassName=LEDs Member=Component U3 WS2812B
+Added Member To Class: ClassName=LEDs Member=Component U4 WS2812B
+Added Member To Class: ClassName=LEDs Member=Component U5 WS2812B

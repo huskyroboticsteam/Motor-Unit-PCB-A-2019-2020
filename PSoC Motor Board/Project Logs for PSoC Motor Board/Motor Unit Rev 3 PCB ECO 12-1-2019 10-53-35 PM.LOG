@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=Dip1 Pin=ADDR 1-1
+Removed Pin From Net: NetName=Dip2 Pin=ADDR 2-1
+Removed Pin From Net: NetName=Dip3 Pin=ADDR 3-1
+Removed Pin From Net: NetName=Dip4 Pin=ADDR 4-1
+Removed Member From Class: ClassName=DIP Switch Member=ADDR 1
+Removed Member From Class: ClassName=DIP Switch Member=ADDR 2
+Removed Member From Class: ClassName=DIP Switch Member=ADDR 3
+Removed Member From Class: ClassName=DIP Switch Member=ADDR 4

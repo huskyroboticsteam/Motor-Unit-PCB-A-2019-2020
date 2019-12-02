@@ -1,0 +1,11 @@
+Change Component Designator: OldDesignator=C? NewDesignator=C12
+Change Pin Designator/Name:  Old Designator=U1-3 Old Name=P2_1 New Designator =P1_0 New Name=58
+Change Pin Designator/Name:  Old Designator=U1-4 Old Name=P2_2 New Designator =P1_1 New Name=59
+Change Pin Designator/Name:  Old Designator=U1-5 Old Name=P2_3 New Designator =P1_2 New Name=60
+Change Pin Designator/Name:  Old Designator=U1-6 Old Name=P2_4 New Designator =P1_3 New Name=61
+Change Pin Designator/Name:  Old Designator=U1-12 Old Name=P6_0 New Designator =P6_1 New Name=13
+Change Pin Designator/Name:  Old Designator=U1-13 Old Name=P6_1 New Designator =P6_0 New Name=12
+Change Pin Designator/Name:  Old Designator=U1-58 Old Name=P1_0 New Designator =P2_1 New Name=3
+Change Pin Designator/Name:  Old Designator=U1-59 Old Name=P1_1 New Designator =P2_2 New Name=4
+Change Pin Designator/Name:  Old Designator=U1-60 Old Name=P1_2 New Designator =P2_3 New Name=5
+Change Pin Designator/Name:  Old Designator=U1-61 Old Name=P1_3 New Designator =P2_4 New Name=6

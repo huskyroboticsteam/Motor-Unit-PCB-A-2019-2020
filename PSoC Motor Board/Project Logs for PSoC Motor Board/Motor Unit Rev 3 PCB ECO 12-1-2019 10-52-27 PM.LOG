@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=LED FAULT Pin=U1-9
+Removed Member From Class: ClassName=LEDs Member=FAULT TP
+Added Pin To Net: NetName=LED FAULT Pin=U1-33
+Added Member To Class: ClassName=LEDs Member=Component FAULT LTST-C170CKT

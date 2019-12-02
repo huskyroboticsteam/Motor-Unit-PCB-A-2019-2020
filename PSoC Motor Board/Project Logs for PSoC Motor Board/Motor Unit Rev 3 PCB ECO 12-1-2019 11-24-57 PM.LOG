@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=Dip4 Pin=U1-27
+Removed Pin From Net: NetName=Dip3 Pin=U1-28
+Removed Pin From Net: NetName=Dip2 Pin=U1-29
+Removed Pin From Net: NetName=Dip1 Pin=U1-30
+Added Pin To Net: NetName=Dip1 Pin=U1-27
+Added Pin To Net: NetName=Dip2 Pin=U1-28
+Added Pin To Net: NetName=Dip3 Pin=U1-29
+Added Pin To Net: NetName=Dip4 Pin=U1-30
+Added Room: Name=CAN
+Added Room: Name=DIP Switch
+Added Room: Name=LEDs
+Added Room: Name=Motor Controller
+Added Room: Name=PSoC Connections
+Added Room: Name=Standard Header

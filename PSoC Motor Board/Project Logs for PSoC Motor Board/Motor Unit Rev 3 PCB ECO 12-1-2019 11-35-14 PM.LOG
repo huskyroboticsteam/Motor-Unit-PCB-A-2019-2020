@@ -1,0 +1,9 @@
+Added Component: Designator= (Saber)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetPWM1_3 Pin= -1A
+Added Pin To Net: NetName=NetPWM1_3 Pin= -1B
+Added Pin To Net: NetName=NetPWM1_2 Pin= -2A
+Added Pin To Net: NetName=NetPWM1_2 Pin= -2B
+Change Net Name : Old Net Name=NetPWM1_2 New Net Name=Net _2A
+Change Net Name : Old Net Name=NetPWM1_3 New Net Name=Net _1A
+Added Member To Class: ClassName=Motor Controller Member=Component   Saber

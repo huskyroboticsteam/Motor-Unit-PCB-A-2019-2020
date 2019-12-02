@@ -1,0 +1,15 @@
+Change Component Designator: OldDesignator=FAULT NewDesignator=FAULT TP
+Change Component Designator: OldDesignator=LED1 NewDesignator=CAN
+Change Component Designator: OldDesignator=LED2 NewDesignator=24V
+Change Component Designator: OldDesignator=LED3 NewDesignator=5V
+Change Component Designator: OldDesignator=LED4 NewDesignator=DEBUG 1
+Change Component Designator: OldDesignator=LED5 NewDesignator=DEBUG 2
+Change Component Designator: OldDesignator=LED6 NewDesignator=FAULT
+Change Component Designator: OldDesignator=LED7 NewDesignator=ERROR
+Change Net Name : Old Net Name=NetLED1_2 New Net Name=NetCAN_2
+Change Net Name : Old Net Name=NetLED2_1 New Net Name=Net24V_1
+Change Net Name : Old Net Name=NetLED3_1 New Net Name=Net5V_1
+Change Net Name : Old Net Name=NetLED4_1 New Net Name=NetDEBUG 1_1
+Change Net Name : Old Net Name=NetLED5_1 New Net Name=NetDEBUG 2_1
+Change Net Name : Old Net Name=NetLED6_1 New Net Name=NetFAULT_1
+Change Net Name : Old Net Name=NetLED7_1 New Net Name=NetERROR_1
