@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=LED CAN Pin=CAN LED-1
+Removed Member From Class: ClassName=LEDs Member=CAN LED

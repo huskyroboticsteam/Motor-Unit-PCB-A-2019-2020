@@ -1,0 +1,10 @@
+Change Component Designator: OldDesignator=  NewDesignator=Saber
+Change Net Name : Old Net Name=Net_1A New Net Name=NetPWM1_3
+Change Net Name : Old Net Name=Net_2A New Net Name=NetPWM1_2
+Added Member To Class: ClassName=Motor Controller Member=Component Saber
+Added Room: Name=CAN
+Added Room: Name=DIP Switch
+Added Room: Name=LEDs
+Added Room: Name=Motor Controller
+Added Room: Name=PSoC Connections
+Added Room: Name=Standard Header
