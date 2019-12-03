@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=24V Pin=+24V-1
+Removed Pin From Net: NetName=CAN H Pin=CAN H-1
+Removed Pin From Net: NetName=CAN L Pin=CAN L-1
+Removed Member From Class: ClassName=Standard Header Member=+5V
+Removed Member From Class: ClassName=Standard Header Member=+24V
+Removed Member From Class: ClassName=CAN Member=CAN H
+Removed Member From Class: ClassName=CAN Member=CAN L
+Change Component Description : Designator=PWM1 Old Description=This discrete MOSFET H-bridge motor driver enables bidirectional control of one high-power DC brushed motor. The small 1.3? × 0.8? board supports a wide 6.5 V to 40 V voltage range and is efficient enough to deliver a continuous 21 A without a heat sink. Additional features of this second-generation (G2) driver include reverse-voltage protection along with basic current sensing and current limiting functionality. New Description=This discrete MOSFET H-bridge motor driver enables bidirectional control of one high-power DC brushed motor. The small 1.3? × 0.8? board supports a wide 6.5 V to 40 V voltage range and is efficient enough to deliver a continuous 21 A without a heat sink. Additional features of this second-generation (G2) driver include reverse-voltage protection along with basic current sensing and current limiting functionality.
+Added Member To Class: ClassName=DIP Switch Member=Component SW1 TDA04H0SB1
