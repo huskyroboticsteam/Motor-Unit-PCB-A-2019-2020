@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=LED FAULT Pin=F TP-1
+Removed Member From Class: ClassName=Motor Controller Member=F TP
+Added Member To Class: ClassName=PSoC Connections Member=Component Y1 SG-636PCW_50.0000MC3__ROHS
+Added Room: Name=CAN
+Added Room: Name=DIP Switch
+Added Room: Name=LEDs
+Added Room: Name=Motor Controller
+Added Room: Name=PSoC Connections
+Added Room: Name=Standard Header

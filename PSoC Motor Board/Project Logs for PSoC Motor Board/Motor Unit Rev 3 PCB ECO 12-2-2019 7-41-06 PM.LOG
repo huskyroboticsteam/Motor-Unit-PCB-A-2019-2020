@@ -1,0 +1,10 @@
+Added Pin To Net: NetName=VCC Pin=Y1-1
+Added Pin To Net: NetName=GND Pin=Y1-2
+Added Pin To Net: NetName=NetCLK_1 Pin=Y1-3
+Added Pin To Net: NetName=VCC Pin=Y1-4
+Added Room: Name=CAN
+Added Room: Name=DIP Switch
+Added Room: Name=LEDs
+Added Room: Name=Motor Controller
+Added Room: Name=PSoC Connections
+Added Room: Name=Standard Header

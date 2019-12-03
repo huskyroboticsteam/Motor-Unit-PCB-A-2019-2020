@@ -156,6 +156,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OPUYWELV
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for PSoC Motor Board\Design Rule Check - Motor Unit Rev 3.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0

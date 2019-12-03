@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GND Pin=J7-1
+Removed Pin From Net: NetName=+5 Pin=J7-2
+Removed Pin From Net: NetName=CAN H Pin=J7-3
+Removed Pin From Net: NetName=CAN L Pin=J7-4
+Removed Member From Class: ClassName=Standard Header Member=J7

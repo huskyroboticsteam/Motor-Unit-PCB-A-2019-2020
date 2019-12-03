@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=VCC Pin=R18-1
+Removed Pin From Net: NetName=LED FAULT Pin=R18-2
+Removed Member From Class: ClassName=Motor Controller Member=R18
+Added Room: Name=CAN
+Added Room: Name=DIP Switch
+Added Room: Name=LEDs
+Added Room: Name=Motor Controller
+Added Room: Name=PSoC Connections
+Added Room: Name=Standard Header
