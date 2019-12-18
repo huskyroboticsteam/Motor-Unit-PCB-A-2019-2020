@@ -1,0 +1,8 @@
+Change Component Description : Designator=PWM1 Old Description=This discrete MOSFET H-bridge motor driver enables bidirectional control of one high-power DC brushed motor. The small 1.3? × 0.8? board supports a wide 6.5 V to 40 V voltage range and is efficient enough to deliver a continuous 21 A without a heat sink. Additional features of this second-generation (G2) driver include reverse-voltage protection along with basic current sensing and current limiting functionality. New Description=This discrete MOSFET H-bridge motor driver enables bidirectional control of one high-power DC brushed motor. The small 1.3? × 0.8? board supports a wide 6.5 V to 40 V voltage range and is efficient enough to deliver a continuous 21 A without a heat sink. Additional features of this second-generation (G2) driver include reverse-voltage protection along with basic current sensing and current limiting functionality.
+Added Pin To Net: NetName=RGB ARRAY Pin=U1-64
+Added Member To Class: ClassName=PSoC Connections Member=Component C12 1uF
+Added Member To Class: ClassName=PSoC Connections Member=Component Gnd1 Test Point
+Added Member To Class: ClassName=PSoC Connections Member=Component Gnd2 Test Point
+Added Member To Class: ClassName=PSoC Connections Member=Component VCC1 Test Point
+Added Member To Class: ClassName=PSoC Connections Member=Component VCC2 Test Point
+Added Member To Class: ClassName=PSoC Connections Member=Component Y1 SG-636PCW_50.0000MC3__ROHS
