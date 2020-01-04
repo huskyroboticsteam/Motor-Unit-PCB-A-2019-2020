@@ -1,29 +1,12 @@
-Output: Gerber Files
-Type  : Gerber
-From  : Variant [[No Variations]] of Project [PSoC Motor Board.PrjPcb]
-   Generated File[Motor Unit Rev 3.GTO]
-   Generated File[Motor Unit Rev 3.GTS]
-   Generated File[Motor Unit Rev 3.GTL]
-   Generated File[Motor Unit Rev 3.G1]
-   Generated File[Motor Unit Rev 3.G2]
-   Generated File[Motor Unit Rev 3.GBL]
-   Generated File[Motor Unit Rev 3.GBS]
-   Generated File[Motor Unit Rev 3.GBO]
-   Generated File[Motor Unit Rev 3.GM1]
-   Generated File[Motor Unit Rev 3.GM4]
-   Generated File[Motor Unit Rev 3.GM13]
-   Generated File[Motor Unit Rev 3.GM15]
-   Generated File[Motor Unit Rev 3.GM16]
-   Generated File[Motor Unit Rev 3.GM20]
-   Generated File[Motor Unit Rev 3.GKO]
-   Generated File[Motor Unit Rev 3.GPT]
-   Generated File[Motor Unit Rev 3.GPB]
-   Generated File[Motor Unit Rev 3.RUL]
-   Generated File[Motor Unit Rev 3.EXTREP]
-   Generated File[Motor Unit Rev 3.REP]
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [PSoC Motor Board.PrjPcb]
+   Generated File[Motor Unit Rev 3.TXT]
+   Generated File[Motor Unit Rev 3.LDP]
+   Generated File[Motor Unit Rev 3.DRR]
 
 
-Files Generated   : 20
+Files Generated   : 3
 Documents Printed : 0
 
-Finished Output Generation At 2:54:08 PM On 1/1/2020
+Finished Output Generation At 11:20:43 AM On 1/4/2020
